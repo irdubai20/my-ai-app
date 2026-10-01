@@ -1,0 +1,79 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+
+# Local archives and exported files
+*.zip
+
+# Backup files
+*.bak
+*.backup
+*.before-*
+*.final-backup
+*.log
+
+# Backup files
+*.bak
+*.backup
+*.before-*
+*.final-backup
+*.log
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+
+# Archives and private documents
+*.zip
+Untitled*.pdf
+
+# All backup variants
+*.bak*
+*.backup*
+*.before-*
+*.final-backup*
+*.old
+
+# Do not upload Android project for this web deployment
+/android/
+
+# Private documents and archives
+*.zip
+Untitled*.pdf
